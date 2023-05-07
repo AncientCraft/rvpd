@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543486540669",
+    "project_id": "ancient-world-instagram",
+    "storage_bucket": "ancient-world-instagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543486540669:android:cc8cb577ae5b2892d0ea14",
+        "android_client_info": {
+          "package_name": "com.example.rvpd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543486540669-hhmpn1kbsi29q7vve7f1curad4brodgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT6OHAKr95tpwG48UXm_15guXwVmYrcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543486540669-hhmpn1kbsi29q7vve7f1curad4brodgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>543486540669-mlbt5ri57eq97207g0t62mttj94pnjc8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.543486540669-mlbt5ri57eq97207g0t62mttj94pnjc8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBr5-mPkyOTG-GmP-M1lc6sQlvOzzSew_M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>543486540669</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.rvpd</string>
+	<key>PROJECT_ID</key>
+	<string>ancient-world-instagram</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ancient-world-instagram.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:543486540669:ios:1129d555c080bc47d0ea14</string>
+</dict>
+</plist>
